@@ -4,8 +4,7 @@ on:
   push:
     branches:
       - main
-      - master
-      - feature/manual-http-implementation
+
     tags:
       - 'v*'
   workflow_dispatch:
@@ -121,4 +120,4 @@ jobs:
           draft: false
           prerelease: false
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
