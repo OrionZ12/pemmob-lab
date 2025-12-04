@@ -123,9 +123,9 @@ flutter:
 flutter_launcher_icons:
   android: true
   ios: false
-  image_path: "assets/logo/icom.jpg"
+  image_path: "assets/logo/logs.jpg"
   adaptive_icon_background: "#FFFFFF"
-  adaptive_icon_foreground: "assets/logo/icom.jpg"
+  adaptive_icon_foreground: "assets/logo/logs.jpg"
 
 # Splash Screen Configuration
 flutter_native_splash:
@@ -133,7 +133,7 @@ flutter_native_splash:
   ios: false
   web: false
   color: "#FFFFFF"
-  image: assets/logo/logs.jpg
+  image: assets/logo/icom.jpg
   android_12:
     color: "#FFFFFF"
-    image: assets/logo/logs.jpg
+    image: assets/logo/icom.jpg
