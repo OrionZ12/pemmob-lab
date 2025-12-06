@@ -1,16 +1,11 @@
-# projectes
+1. Identitas<br>
+Nama: Sulung Ismanara<br>
+NIM : 231401060\br
+LAB Pemrograman Mobile 5\br
+Prodi Ilmu Komputer\br
+Fakultas Ilmu Komputer dan Teknologi Informasi\br
+Universitas Sumatera Utara\br
 
-A new Flutter project.
+2. Deskripsi Aplikasi
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+projectes adalah aplikasi
